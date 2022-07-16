@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating new stuff for existing stuff and automation in particular.
 - 🌱 I’m currently learning Python, Kotlin, Lua for now.
 - 💞️ I’m looking to collaborate on Tachiyomi and am currently developing my skills for that.
-- 📫 Contact me at my gmail: dakumosusan@gmail.com or Twitter: @dakumosu and hope that I notice it.
+- 📫 Contact me at my gmail: dakumosusan@gmail.com or Twitter: @dakumosusan and hope that I notice it.
 
 <!---
 dakumosu/dakumosu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
